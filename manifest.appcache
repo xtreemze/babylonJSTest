@@ -1,0 +1,11 @@
+CACHE MANIFEST
+
+# Time: Jun 18 2016 12:10:40 GMT+0000 (UTC)
+
+CACHE:
+index.html
+css/style.min.css
+js/master.min.js
+
+NETWORK:
+*
